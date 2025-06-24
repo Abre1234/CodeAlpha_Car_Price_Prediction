@@ -19,8 +19,8 @@ This project predicts the selling price of a used car based on features like bra
 - Seaborn, Matplotlib
 
 ## 📈 Model Performance
-- Linear R² Score: ~0.85
-- Random Forest R² Score: ~0.93
+- Linear R² Score: ~0.83
+- Random Forest R² Score: ~0.96
 
 ## 🚫 Outlier Strategy
 Custom function using IQR on each numeric feature (`Mileage`, `Horsepower`, `Present_Price`, etc.)
