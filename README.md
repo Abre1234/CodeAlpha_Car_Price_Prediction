@@ -25,4 +25,4 @@ This project predicts the selling price of a used car based on features like bra
 ## 🚫 Outlier Strategy
 Custom function using IQR on each numeric feature (`Mileage`, `Horsepower`, `Present_Price`, etc.)
 
-➡️ [GitHub Repo](https://github.com/Abre1234/CodeAlpha_Car_Price_Prediction)
+➡️ [GitHub Repo](https://github.com/Abre1234/CodeAlpha_Car_Price_Prediction/blob/main/Car_Price_Prediction.ipynb))
